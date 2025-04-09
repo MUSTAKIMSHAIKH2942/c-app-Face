@@ -126,11 +126,6 @@ face-attendance-system/
 
 ---
 
-## **📜 License**  
-MIT License © 2023  
-
----
-
 ## **📧 Contact**  
 For issues/feedback:  
 📩 **shaikhmustakim2942@gmail.com.com**  
